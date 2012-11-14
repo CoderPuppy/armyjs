@@ -1,5 +1,5 @@
 # Rocket
-![Rocket](rocket-horiz.svg)
+![Rocket](http://raw.github.com/drewyoung1/rocketjs/master/rocket-horiz.svg)
 ```
 ____
     \______________________

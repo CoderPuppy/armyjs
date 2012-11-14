@@ -1,5 +1,5 @@
 # Rocket
-!(Rocket)[rocket_horiz.svg]
+![Rocket](rocket-horiz.svg)
 ```
 ____
     \______________________

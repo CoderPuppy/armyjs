@@ -1,0 +1,15 @@
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Mac crap
+.DS_Store
+
+node_modules
+*.sublime-project
+*.sublime-workspace
+
+rocket-horiz.png
+rocket.svg

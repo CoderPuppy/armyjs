@@ -1,0 +1,11 @@
+{
+	"name": "rocket",
+	"version": "0.1.0",
+	"author": "Drew Young",
+	"private": true,
+	"main": "./lib/rocket",
+	"dependencies": {
+		"engine.io": "~0.3.9",
+		"connect": "~2.7.0"
+	}
+}

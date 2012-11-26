@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+var army = require('../lib/army');
+
+army.cli().run(process.argv.slice(2));

@@ -1,11 +1,12 @@
 {
-	"name": "rocket",
+	"name": "army",
 	"version": "0.1.0",
 	"author": "Drew Young",
-	"private": true,
-	"main": "./lib/rocket",
+	"main": "./lib/army",
 	"dependencies": {
-		"engine.io": "~0.3.9",
-		"connect": "~2.7.0"
-	}
+		"connect": "~2.7.0",
+		"coa": "~0.3.8",
+		"crdt": "~3.1.6"
+	},
+	"repository": { "type": "git", "url": "http://github.com/drewyoung1/armyjs.git" }
 }

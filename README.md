@@ -1,2 +1,3 @@
-# Rocket
-![Rocket](http://coderpuppy.koding.com/projects/rocketjs/rocket-horiz-med.png)
+# Army
+
+_Check Spec.md for the planned features_
